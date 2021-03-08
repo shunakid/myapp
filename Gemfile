@@ -5,6 +5,9 @@ ruby '2.6.3'
 
 gem 'rspec-rails'
 gem 'pry-rails'
+gem 'slim-rails'
+gem 'html2slim'
+gem 'bootstrap'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.3'
