@@ -8,6 +8,7 @@ gem 'pry-rails'
 gem 'slim-rails'
 gem 'html2slim'
 gem 'bootstrap'
+gem 'ransack'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.3'
